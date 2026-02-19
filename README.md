@@ -1,14 +1,9 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! I'm Nisha Kumari, an AI/ML and Data Analytics enthusiast passionate about building intelligent, data-driven solutions.</h2>
 
-###
+# 💫 About Me:
+🛠 I’m currently working on:<br>Building end-to-end machine learning projects and improving model deployment skills using Python and TensorFlow.<br><br>👯 I’m looking to collaborate on:<br>AI/ML, NLP, data analytics, and real-world open-source projects.<br><br>🤝 I’m looking for help with:<br>Advanced ML model optimization and scalable deployment strategies.<br><br>🌱 I’m currently learning:<br>Generative AI, advanced NLP techniques, and cloud-based ML solutions (AWS).<br><br>💬 Ask me about:<br>Python, Machine Learning, Tableau dashboards, and data preprocessing.<br><br>⚡ Fun fact:<br>I enjoy turning complex datasets into meaningful insights and practical solutions.<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishacds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Nishacds&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishacds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
 
 ###
 
@@ -108,6 +103,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nishacds/Nishacds/output/snake.svg" alt="Snake animation" />
-
 ###
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nisha_kumari19_/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nishakumari19) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@NishaKumari-ln3xf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishalegend53@gmail.com) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nishacds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nishacds&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishacds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nishacds&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
